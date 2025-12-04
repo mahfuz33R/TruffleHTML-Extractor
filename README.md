@@ -82,6 +82,8 @@ If same Raw result appears multiple times from different repos, **only one is wr
 
 Detector Type: AzureSasToken
 Raw result: [https://mahfuz33r.github.io/container/file.png](https://mahfuz33r.github.io/container/file.png)
+
+
 Repositories:
 
 * [https://github.com/consonant/business.git](https://github.com/consonant/business.git)
@@ -90,6 +92,8 @@ Repositories:
 
 Detector Type: SlackWebhook
 Raw result: [https://hooks.slack.com/services/xxx/yyy/zzz](https://hooks.slack.com/services/xxx/yyy/zzz)
+
+
 Repositories:
 
 * [https://github.com/example/project.git](https://github.com/example/project.git)

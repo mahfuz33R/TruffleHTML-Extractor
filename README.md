@@ -81,10 +81,10 @@ If same Raw result appears multiple times from different repos, **only one is wr
 ```
 
 Detector Type: AzureSasToken
-Raw result: [https://datasheet.blob.core.windows.net/container/file.png](https://datasheet.blob.core.windows.net/container/file.png)
+Raw result: [https://mahfuz33r.github.io/container/file.png](https://mahfuz33r.github.io/container/file.png)
 Repositories:
 
-* [https://github.com/SELISEdigitalplatforms/l3-flutter-thingsboardmobile-business.git](https://github.com/SELISEdigitalplatforms/l3-flutter-thingsboardmobile-business.git)
+* [https://github.com/consonant/business.git](https://github.com/consonant/business.git)
 
 ---
 
@@ -111,8 +111,8 @@ https://www.python.org/downloads/
 ### **2. Clone the Repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/trufflehog-html-extractor.git
-cd trufflehog-html-extractor
+git clone https://github.com/mahfuz33r/TruffleHTML-Extractor.git
+cd TruffleHTML-Extractor
 ````
 
 ---
@@ -173,7 +173,7 @@ Enter Detector Type to filter:
 
 ```
 output.txt
-output1.txt  # if file already existed
+output1.txt  # if output.txt file already existed
 ```
 
 ---

@@ -1,15 +1,11 @@
 # TruffleHTML-Extractor
+
 TruffleHTML-Extractor parses TruffleHog HTML reports, lists detector types, filters or extracts all findings, removes HTML tags, and outputs unique raw results with related repositories. Ideal for auditing leaked secrets and simplifying secret rotation.
 
 
-
-Below is a **professional, clean, GitHub-ready README.md** for your project.
-
-You can copy-paste directly into your GitHub repo.
-
 ---
 
-# ✅ **README.md (Complete & Professional)**
+
 
 ```markdown
 # 🔍 TruffleHog HTML Result Extractor
@@ -260,17 +256,4 @@ Pull requests are welcome!
 
 If you need improvements or custom integration, feel free to open an issue.
 
-```
-
----
-
-# ✔ Your README.md is now ready for GitHub  
-If you want, I can also:
-
-✅ Create a better CLI version  
-✅ Add colors (rich library)  
-✅ Add JSON/CSV output modes  
-✅ Make this a PyPI package  
-
-Just tell me!
 ```
